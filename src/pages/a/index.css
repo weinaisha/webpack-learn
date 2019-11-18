@@ -1,0 +1,4 @@
+/*webpack 只识别js,对于其他类型的文件css\png需要loader支持*/
+html,body{
+    margin: 0;
+}
