@@ -1,3 +1,5 @@
 a {
     color: #000;
+    display: flex;
+    transform: scale(2);
 }
